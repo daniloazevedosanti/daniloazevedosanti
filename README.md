@@ -5,6 +5,5 @@
 [Linkedin](www.linkedin.com/in/dansantosaz/)
 
 ### Hello 👋
-Research & Back-end developer
-
-💜 Javascript, Java and .Net
+Research, Software engineer & Back-end developer...
+💜 .Net, Java, Javascript, SQL, Angular, Web
